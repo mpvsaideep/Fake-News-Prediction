@@ -4,7 +4,7 @@
 Welcome to our Fake News Prediction project! This project aims to leverage Long Short-Term Memory (LSTM) networks to predict and classify news articles as either real or fake. We have utilized a Kaggle dataset to train and evaluate our model.
 
 ## Project Structure
-1.) Dataset: 
+### 1.) Dataset: 
 We have employed the Kaggle dataset, which includes a collection of news articles labeled as either real or fake. The dataset serves as the foundation for training and testing our LSTM model.
 
 2.) LSTM Model:
