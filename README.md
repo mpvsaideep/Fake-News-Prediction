@@ -20,7 +20,7 @@ Fake News Predictor Using LSTM Approach.ipynb: Jupyter Notebook for data preproc
 After rigorous training and testing, our LSTM-based Fake News Prediction model achieves an impressive accuracy of 92%. This accuracy demonstrates the model's capability to effectively discern between real and fake news articles.
 
 ## License
-This project is Licensed under Apache 2.0 License.
+This project is Licensed under MIT License.
 
 ## Conclusion
 Our Fake News Prediction project utilizing LSTM showcases the potential of deep learning models in addressing real-world challenges. The achieved accuracy of 92% underscores the effectiveness of our approach in discerning between genuine and fake news. We hope this project contributes to the ongoing efforts to combat misinformation and enhance the reliability of information in the digital age.
